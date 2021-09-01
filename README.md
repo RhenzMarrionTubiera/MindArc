@@ -1,6 +1,10 @@
 # MindArc
 -Use "npm start" to start the WebApp go to the directory where the package.json resides.
 
+
+
+
+
 Regarding the bonus question "Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`"
 
 
